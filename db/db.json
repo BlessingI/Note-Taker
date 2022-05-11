@@ -9,6 +9,11 @@
       "title": "My second saved note",
       "text": "Saving in my Json",
       "id": "1"
+    },
+    {
+      "title": "First Guy",
+      "text": "Not every guy kor",
+      "id": "2"
     }
   ]
 }
