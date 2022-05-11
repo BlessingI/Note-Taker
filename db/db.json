@@ -1,24 +1,14 @@
 {
   "notex": [
     {
-      "title": "Test Title",
-      "text": "Test text"
+      "title": "First Note",
+      "text": "My saved note here ",
+      "id": "0"
     },
     {
-      "title": "Larry",
-      "text": "lemur"
-    },
-    {
-      "title": "Bode",
-      "text": "Bebe"
-    },
-    {
-      "title": "Blessing",
-      "text": "I do not know"
-    },
-    {
-      "title": "Balance accounts",
-      "text": "Balance account books by end of day Monday"
+      "title": "My second saved note",
+      "text": "Saving in my Json",
+      "id": "1"
     }
   ]
 }
