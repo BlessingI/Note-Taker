@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 
 const { notex } = require("./db/db.json");
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 const app = express();
 
